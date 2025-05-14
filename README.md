@@ -10,6 +10,18 @@ The **Kerenal** is simply what is responsible for interacting with the hardware 
 What most people call the Linux operating system is simply the kernal combined with other software.
 
 
-## The Way Forward
-This was a demo for Penjani!!
+## Navigation
+After learning the Secrets of what Linux is, I delved into navigation of the system. During which I learnt basic commands like:
+`pwd` -Which prints the *current working directory*
+`cd` - Which simply *changes the working directory*
+`ls` - Which lists all the directories and files in a directory
+`rm` - This removes a file
+`mkdir` this created a directory
+`rmdir` - this deletes an empty directory
+
+
+## File Handling
+`touch` this is used to create file
+`cat` - this is used to read a file
+`nano` - this command is used to open the nano editor which is one of the default file editors in linux
 
