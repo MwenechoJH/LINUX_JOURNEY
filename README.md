@@ -9,6 +9,17 @@ I managed to understand that what most people call linux is actually just the **
 The **Kerenal** is simply what is responsible for interacting with the hardware of the computer.
 What most people call the Linux operating system is simply the kernal combined with other software.
 
+## Commands
+When working with the linux terminal, we normlly deal with commands. In my own understanding, these are short and structured phrases used to interact with the system.
+The first commands i was intrduced to are:
+`cd`
+`pwd`
+`whoami`
+`sudo apt update`
+`sudo apt upgrade`
+
+Flags are also anther thing used together with these commands. e.g. `-l`, `-o`, `-q`
+
 
 ## Navigation
 After learning the Secrets of what Linux is, I delved into navigation of the system. During which I learnt basic commands like:
