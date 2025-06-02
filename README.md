@@ -9,6 +9,33 @@ I managed to understand that what most people call linux is actually just the **
 The **Kerenal** is simply what is responsible for interacting with the hardware of the computer.
 What most people call the Linux operating system is simply the kernal combined with other software.
 
+## Philosophy
+->**Everything is a file**
+->**small, single-purpose prgograms**
+->**programs can be chained** - complex tasks can be done thanks to the ability combine all these tools
+->**avoid captive user interface**
+->**configuration data is stored a text file**
+
+## Components
+**bootloader**
+**OS Kernel**
+**Daemons**- run in the background for the system to actually operate
+**OS shell**- the cammand language interpreter AKA command line
+**Graphics Server** - provides graphical sub-system (server)
+**Window Manager** - AKA GUI
+**Utilities** - apps that perform a particular function forthe user or another program
+
+## Architecture 
+**Hardware**
+
+**Kernel**
+
+**Shell**
+
+**System Utility**
+
+
+
 ## Commands
 When working with the linux terminal, we normlly deal with commands. In my own understanding, these are short and structured phrases used to interact with the system.
 The first commands i was intrduced to are:
