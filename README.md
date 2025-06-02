@@ -11,9 +11,13 @@ What most people call the Linux operating system is simply the kernal combined w
 
 ## Philosophy
 **Everything is a file**
+
 **small, single-purpose prgograms**
+
 **programs can be chained** - complex tasks can be done thanks to the ability combine all these tools
+
 **avoid captive user interface**
+
 **configuration data is stored a text file**
 
 ## Components
