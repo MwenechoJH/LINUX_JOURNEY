@@ -99,7 +99,9 @@ After learning the Secrets of what Linux is, I delved into navigation of the sys
 
 
 ## File Handling
-`touch` this is used to create file
-`cat` - this is used to read a file
-`nano` - this command is used to open the nano editor which is one of the default file editors in linux
+`touch` this is used to create file <br>
+`cat` - this is used to read a file <br>
+`nano` - this command is used to open the nano editor which is one of the default file editors in linux <br>
+`cp` - copies a file <br>
+`mv` - moves a file <br>
 
