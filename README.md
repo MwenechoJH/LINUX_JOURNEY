@@ -90,12 +90,12 @@ Flags are also anther thing used together with these commands. e.g. `-l`, `-o`, 
 
 ## Navigation
 After learning the Secrets of what Linux is, I delved into navigation of the system. During which I learnt basic commands like:
-`pwd` -Which prints the *current working directory*
-`cd` - Which simply *changes the working directory*
-`ls` - Which lists all the directories and files in a directory
-`rm` - This removes a file
-`mkdir` this created a directory
-`rmdir` - this deletes an empty directory
+`pwd` -Which prints the *current working directory* <br>
+`cd` - Which simply *changes the working directory* <br>
+`ls` - Which lists all the directories and files in a directory <br>
+`rm` - This removes a file <br>
+`mkdir` this created a directory <br>
+`rmdir` - this deletes an empty directory <br>
 
 
 ## File Handling
