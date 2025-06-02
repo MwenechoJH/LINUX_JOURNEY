@@ -38,6 +38,9 @@ What most people call the Linux operating system is simply the kernal combined w
 
 **System Utility**
 
+## FileSystem
+**/** -> The root directory, contains files that boot the os and boot the files used to runt he system
+
 
 
 ## Commands
