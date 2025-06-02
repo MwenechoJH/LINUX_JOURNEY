@@ -10,11 +10,11 @@ The **Kerenal** is simply what is responsible for interacting with the hardware 
 What most people call the Linux operating system is simply the kernal combined with other software.
 
 ## Philosophy
-->**Everything is a file**
-->**small, single-purpose prgograms**
-->**programs can be chained** - complex tasks can be done thanks to the ability combine all these tools
-->**avoid captive user interface**
-->**configuration data is stored a text file**
+**Everything is a file**
+**small, single-purpose prgograms**
+**programs can be chained** - complex tasks can be done thanks to the ability combine all these tools
+**avoid captive user interface**
+**configuration data is stored a text file**
 
 ## Components
 **bootloader**
