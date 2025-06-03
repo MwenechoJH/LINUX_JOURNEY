@@ -75,6 +75,15 @@ What most people call the Linux operating system is simply the kernal combined w
 **/var**	This directory contains variable data files such as log files, email in-boxes, web application related files, cron files, and more.
 
 
+## Shell
+The thing that we think is the CLI <br>
+It provide text based input/output interface between user and kernel<br>
+
+**Terminal Emulators** - These are software that emulate the function of a terminal.<br>
+The terminal acts as a point of communication with the shell.<br>
+
+
+
 
 ## Commands
 When working with the linux terminal, we normlly deal with commands. In my own understanding, these are short and structured phrases used to interact with the system.
@@ -105,3 +114,26 @@ After learning the Secrets of what Linux is, I delved into navigation of the sys
 `cp` - copies a file <br>
 `mv` - moves a file <br>
 
+
+
+### TERMINAL vs SHELL vs CONSOLE
+The **Shell** is the **command-line interpreter** that interacts wiht the operating system.
+It interprates... executes commands, runs scripts, and manages processes.
+
+The **terminal** is a program (GUI app) that provides a text-based interface to interact with the shell<br>
+**Terminal emulators** are used in modern systems since the physical ones are rare.<br>
+The terminal sends user input to the shell and displays the output.<br>
+
+The **Console** refers to *physical hardware* (keyboard & monitor) directly connected to the system<br>
+In Linux, it can also mean  the **Virtual console(TTY)**
+It can also mean the **Serial Console**<br>
+The console is a **low-level interface** that the system uses for direct communication.
+
+**summary**
+**Terminal**: The window/program that displays the interface.
+
+**Shell**: The command interpreter running inside the terminal.
+
+**CLI**: The text-based interface you use — provided by the shell, shown in the terminal.
+
+**Console**: Broad term for a text-based interface or system interface- like a terminal is an example of a console
