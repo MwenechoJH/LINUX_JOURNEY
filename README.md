@@ -52,7 +52,8 @@ What most people call the Linux operating system is simply the kernal combined w
 
 **/dev**	Contains device files to facilitate access to every hardware device attached to the system.
 
-**/etc**	Local system configuration files. Configuration files for installed applications may be saved here as well.
+**/etc**	Local **system configuration files**. Configuration files for installed applications may be saved here as well.
+
 
 **/home**	Each user on the system has a subdirectory here for storage.
 
@@ -72,7 +73,8 @@ What most people call the Linux operating system is simply the kernal combined w
 
 **/usr**	Contains executables, libraries, man files, etc.
 
-**/var**	This directory contains variable data files such as log files, email in-boxes, web application related files, cron files, and more.
+**/var**	This directory contains **variable data files** such as log files, email in-boxes, web application related files, cron files, and more.
+    -This directory is noramally written to when the system is running
 
 
 ## Shell
@@ -94,7 +96,7 @@ The first commands i was intrduced to are:
 `sudo apt update`
 `sudo apt upgrade`
 
-Flags are also anther thing used together with these commands. e.g. `-l`, `-o`, `-q`
+Flags are also another thing used together with these commands. e.g. `-l`, `-o`, `-q`
 
 
 ## Navigation
@@ -137,3 +139,18 @@ The console is a **low-level interface** that the system uses for direct communi
 **CLI**: The text-based interface you use — provided by the shell, shown in the terminal.
 
 **Console**: Broad term for a text-based interface or system interface- like a terminal is an example of a console
+
+
+## PROMPT DESCRIPTION
+The bash prompt displays important information: <br>
+By default it normally has: `<username>@<hostname><current working directory>$`<br>
+The tilde <~> is used to mark the home directory for the surrent user:`<username>@<hostname>[~]$`<br>
+
+The dollar sign $ stands for the user.
+
+When you log in as **root** , the dollar changes to hash <#>
+
+There is something called the **PS1** variable, that controls what is displayed by the prompt. One can include stuff like data and ip address also. With even the ability to tweak a lot of stuff. In essence, it is like a **template**
+
+
+
